@@ -14,6 +14,8 @@ num = "This is not a number";
 
 let blank;
 
+console.log(blank);
+
 blank = null;
 
 // BONUS
